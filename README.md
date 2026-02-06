@@ -21,33 +21,34 @@ This repository contains a comprehensive roadmap for learning and executing **De
 - Familiarity with cloud platforms, Terraform, containers, CI/CD, and observability
 
 ---
-
 ## Repository Structure
 
-master-schedule/
-├─ docs/
-│ ├─ 00-status.md
-│ ├─ 01-roadmap.md
-│ ├─ 02-cloud.md
-│ ├─ 03-terraform.md
-│ ├─ 04-cicd.md
-│ ├─ 05-containers-k8s.md
-│ ├─ 06-sre-observability.md
-│ ├─ 07-devsecops.md
-│ ├─ 08-networking.md
-│ ├─ 09-system-design.md
-│ └─ resources.md
-├─ projects/
-│ ├─ terraform-aws-vpc/
-│ ├─ terraform-aws-eks/
-│ ├─ cicd-github-actions/
-│ └─ k8s-microservice-demo/
-├─ scripts/
-│ ├─ python/
-│ └─ shell/
-├─ diagrams/
-│ └─ architecture/
-└─ README.md
+| Folder / File                  | Notes                               |
+|--------------------------------|------------------------------------|
+| master-schedule/               | Root folder                        |
+| ├─ docs/                       | Documentation folder               |
+| │ ├─ 00-status.md               | Markdown doc                        |
+| │ ├─ 01-roadmap.md              | Markdown doc                        |
+| │ ├─ 02-cloud.md                | Markdown doc                        |
+| │ ├─ 03-terraform.md            | Markdown doc                        |
+| │ ├─ 04-cicd.md                 | Markdown doc                        |
+| │ ├─ 05-containers-k8s.md       | Markdown doc                        |
+| │ ├─ 06-sre-observability.md    | Markdown doc                        |
+| │ ├─ 07-devsecops.md            | Markdown doc                        |
+| │ ├─ 08-networking.md           | Markdown doc                        |
+| │ ├─ 09-system-design.md        | Markdown doc                        |
+| │ └─ resources.md               | Markdown doc                        |
+| ├─ projects/                    | Project implementations            |
+| │ ├─ terraform-aws-vpc/         | Terraform AWS VPC project           |
+| │ ├─ terraform-aws-eks/         | Terraform AWS EKS project           |
+| │ ├─ cicd-github-actions/       | CI/CD GitHub Actions project        |
+| │ └─ k8s-microservice-demo/     | Kubernetes microservice demo        |
+| ├─ scripts/                     | Scripts folder                     |
+| │ ├─ python/                     | Python scripts                      |
+| │ └─ shell/                      | Shell scripts                        |
+| ├─ diagrams/                     | Diagrams folder                     |
+| │ └─ architecture/               | Architecture diagrams               |
+| └─ README.md                     | Root readme                         |
 ---
 
 ## Status Check
