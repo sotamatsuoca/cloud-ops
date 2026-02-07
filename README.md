@@ -1,7 +1,7 @@
-# Master Schedule — DevOps & CloudOps Roadmap
+# Master Schedule - DevOps & CloudOps Roadmap
 
 ## Overview
-This repository contains a comprehensive roadmap for learning and executing **DevOps and CloudOps projects**, along with production-ready **Terraform infrastructure code** for cloud platforms. The goal is to prepare for **Big Tech–ready DevOps / Cloud Engineer roles**.
+This repository contains a comprehensive roadmap for learning and executing DevOps and CloudOps projects, along with production-ready Terraform infrastructure code for cloud platforms. The goal is to prepare for DevOps / Cloud Engineer roles.
 
 ### Purpose
 - Demonstrate production-minded cloud engineering skills
@@ -18,7 +18,6 @@ This repository contains a comprehensive roadmap for learning and executing **De
 ## About Me
 - Background in enterprise system operation and data systems
 - Experience with Linux, SQL, automation, incident response
-- Familiarity with cloud platforms, Terraform, containers, CI/CD, and observability
 
 ---
 ## Repository Structure
@@ -203,30 +202,27 @@ This repository contains a comprehensive roadmap for learning and executing **De
 
 **Git / GitHub CLI**
 ```powershell
-git clone
+git clone <url>
 git status
-git add README.md
-git commit -m "Update README"
-git push origin main
+git add .
+git commit -m 'message'
+git push
 gh auth login
-Terraform
+```
+
+**Terraform**
+```powershell
 terraform init
 terraform validate
 terraform plan
 terraform apply
-terraform destroy```
+terraform destroy
+```
 
-Scripts & Tools
-
-Python: scripts/python/
-
-Shell: scripts/shell/
-
-Terraform, kubectl, helm, aws, gh in C:\Users\SOTA\bin\## Scripts & Tools
-
-- **Python:** `scripts/python/`  
-- **Shell:** `scripts/shell/`  
-- **Other tools:** Terraform, kubectl, helm, aws, gh located in `C:\Users\SOTA\bin\`
+**Scripts & Tools**
+- Python: `scripts/python/`  
+- Shell: `scripts/shell/`  
+- Other tools: Terraform, kubectl, helm, aws, gh located in `C:\Users\SOTA\bin\`
 
 ---
 
@@ -243,8 +239,8 @@ Terraform, kubectl, helm, aws, gh in C:\Users\SOTA\bin\## Scripts & Tools
 
 ## Roadmap
 
-- **Phase 2B:** Subnets, NAT, ALB, SGs  
-- **Phase 2C:** Secrets Manager, parameter groups  
+- **Phase 1:** Subnets, NAT, ALB, SGs  
+- **Phase 2:** Secrets Manager, parameter groups  
 - **Phase 3:** AWS account + first deploy  
 - **Phase 4:** CI/CD pipeline (GitHub Actions → ECR → ECS)  
 - **Phase 5:** Auto-scaling groups + Spot instances  
@@ -271,6 +267,45 @@ Terraform, kubectl, helm, aws, gh in C:\Users\SOTA\bin\## Scripts & Tools
 
 ---
 
+### Git
+- C:\Program Files\Git\cmd
+- C:\Program Files\Git\bin
+- git.exe
+
+### GitHub CLI (`where gh`)
+- C:\Program Files\GitHub CLI\
+- gh.exe
+- C:\Users\<USERNAME>\AppData\Local\Programs\GitHub CLI\
+
+### Terraform
+- C:\Program Files\Terraform\
+- C:\HashiCorp\Terraform\
+- C:\Users\SOTA\bin\
+- terraform.exe
+
+## User PATH (Dev tools)
+C:\Users\SOTA\AppData\Local\Programs\
+C:\Users\SOTA\bin\  # Add only this
+
+## System PATH (Sys tools)
+C:\Program Files\
+C:\Program Files\Git\cmd\
+C:\Program Files\GitHub CLI\
+
+C:\Users\SOTA\bin\
+| Binary         | Notes                   |
+|----------------|------------------------|
+| terraform.exe  | Terraform CLI           |
+| kubectl.exe    | Kubernetes CLI          |
+| helm.exe       | Helm package manager    |
+| aws.exe        | AWS CLI                 |
+| gh.exe         | GitHub CLI              |
+
+### Sanity chk
+`$env:PATH -split ";"`
+
+---
+
 ## License
 
 [e.g., MIT, Apache 2.0]
@@ -281,5 +316,4 @@ Terraform, kubectl, helm, aws, gh in C:\Users\SOTA\bin\## Scripts & Tools
 
 S. M. / DevOps
 
-**Last Updated:** February 2026  
-**Status:** Phase 2A | Phase 2B | Phase 3
+**Last Updated:** February 2026
