@@ -18,6 +18,11 @@ This repository contains a comprehensive roadmap for learning and executing DevO
 ## About Me
 - Background in enterprise system operation and data systems
 - Experience with Linux, SQL, automation, incident response
+ - Bachelor’s degree in Finance, with equivalent practical experience in IT.
+ - 5.5 years of experience in troubleshooting and advocating for customer needs, and triaging technical issues (hardware, software, application, operational, process).
+ - 3.5 years of experience with computer networking and web technologies (HTTP, HTML, DNS)
+ - Experience in system administration with Linux
+ - Experience with core programming and scripting languages (Python, JavaScript, PowerShell, Bash/Shell)
 
 ---
 ## Repository Structure
