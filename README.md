@@ -1,3 +1,65 @@
+<div align="center">
+
+# Hello! 👋 I'm Sota Matsuoka
+
+### An enthusiastic learner aiming to become a Cloud Technical Solutions Engineer
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sotamatsuoca/)
+[![LinkedIn](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.linkedin.com/in/sota-matsuoka/)
+
+</div>
+
+---
+
+## About Me
+
+- 💼 Cloud & Systems Engineer with 5+ years of experience in Linux, AWS, GCP, Azure, and enterprise production systems
+- ⚡ Skilled in incident troubleshooting, root cause analysis, automation (Python/Shell), and technical communication
+- 🌱 Experienced in system remakes, data migration, ETL, AI model support, and infrastructure operations
+- 🌍 Multilingual: English (B2-C1), Japanese (C2), Chinese (Native), Korean (B2), Taiwanese (Conversational)
+
+## 🛠️ Core Skills
+
+### Cloud & Platforms
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Automation & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Tools & Databases
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotamatsuoca&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotamatsuoca&layout=compact&theme=radical)
+
+## 📈 Activity Graph
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sotamatsuoca&theme=radical)](https://git.io/streak-stats)
+
+### 💬 Passionate about cloud solutions, automation, and solving complex technical challenges.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsotamatsuoca&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=訪問者&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
+
+
 # Master Schedule - DevOps & CloudOps Roadmap
 
 ## Overview
