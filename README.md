@@ -39,10 +39,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-<div align="center">
-
 ## 📊 GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotamatsuoca&show_icons=true&theme=radical)
@@ -52,6 +48,10 @@
 ## 📈 Activity Graph
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sotamatsuoca&theme=radical)](https://git.io/streak-stats)
+
+---
+
+<div align="center">
 
 ### 💬 Passionate about cloud solutions, automation, and solving complex technical challenges.
 
