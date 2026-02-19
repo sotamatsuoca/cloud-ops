@@ -1,9 +1,8 @@
 <div align="left">
 
-# Hello! I'm Sota Matsuoka
-
-### An enthusiastic learner aiming to become a Cloud Technical Solutions Engineer
-#### Passionate about cloud solutions, automation, and solving complex technical challenges.
+## Sota Matsuoka
+### Aspiring Cloud TSE focused on customer success
+#### I aim to grow into a TSE role where I can leverage cloud technologies, automation, and analytical troubleshooting to solve complex customer challenges and deliver reliable solutions.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sotamatsuoca/)
 [![LinkedIn](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://www.linkedin.com/in/sota-matsuoka/)
