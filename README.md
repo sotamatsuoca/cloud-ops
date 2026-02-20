@@ -13,12 +13,12 @@
 
 ## About Me
 
-- 💼 Cloud & Systems Engineer with 5+ years of experience in Linux, AWS, GCP, Azure, and enterprise production systems
-- ⚡ Skilled in incident troubleshooting, root cause analysis, automation (Python/Shell), and technical communication
-- 🌱 Experienced in system remakes, data migration, ETL, AI model support, and infrastructure operations
-- 🌍 Multilingual: English (B2-C1), Japanese (C2), Chinese (Native), Korean (B2), Taiwanese (Conversational)
+- Cloud & Systems Engineer with 5+ years of experience in Linux, AWS, GCP, Azure, and enterprise production systems
+- Skilled in incident troubleshooting, root cause analysis, automation (Python/Shell), and technical communication
+- Experienced in system remakes, data migration, ETL, AI model support, and infrastructure operations
+- Multilingual: English (B2-C1), Japanese (C2), Chinese (Native), Korean (B2), Taiwanese (Conversational)
 
-## 🛠️ Core Skills
+## Core Skills
 
 ### Cloud & Platforms
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
