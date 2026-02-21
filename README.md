@@ -6,6 +6,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white/)](https://github.com/sotamatsuoca/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whit/)](https://www.linkedin.com/in/sota-matsuoka/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sotamatsuoca&theme=radical)](https://git.io/streak-stats)
 
 </div>
 
@@ -38,35 +39,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<<<<<<< HEAD
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sotamatsuoca&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sotamatsuoca&layout=compact&theme=radical)
-
-## 📈 Activity Graph
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sotamatsuoca&theme=radical)](https://git.io/streak-stats)
-
----
-
-<div align="center">
-
-### 💬 Passionate about cloud solutions, automation, and solving complex technical challenges.
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsotamatsuoca&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=訪問者&edge_flat=false)](https://hits.seeyoufarm.com)
-
-=======
----
-
-<div align="right">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sotamatsuoca&theme=radical)](https://git.io/streak-stats)
-
->>>>>>> f0000cea5c01cb8a2b1ace1b91713551aa31508c
-</div>
 
 
 # Master Schedule - DevOps & CloudOps Roadmap
